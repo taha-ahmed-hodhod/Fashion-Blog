@@ -349,6 +349,9 @@ footer p a {
   color: #000000;
 }
 @media (max-width:767px) {
+  nav {
+   padding: 0 10px;
+}
   nav a {
   color: azure;
   font-size: 13px;
